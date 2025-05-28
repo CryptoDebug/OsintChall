@@ -5,4 +5,3 @@ Disallow: /hidden/
 
 # Note pour les développeurs : Le projet PhotoFrame est hébergé sur GitHub Pages
 # Repository: github.com/PixelWaveLyon/PhotoFrame
-# Contact: pixelwavelyon@protonmail.com 
